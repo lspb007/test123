@@ -7,7 +7,7 @@
         <option name="settingsModule" value="test123/settings.py" />
         <option name="manageScript" value="manage.py" />
         <option name="environment" value="&lt;map/&gt;" />
-        <option name="doNotUseTestRunner" value="false" />
+        <option name="commandsToSkip" value="" />
       </configuration>
     </facet>
   </component>
@@ -17,7 +17,7 @@
       <sourceFolder url="file://$MODULE_DIR$/assets" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/extra_apps" isTestSource="false" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.5 (test123)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.5.3 virtualenv at C:\Users\lsp\test123" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="TemplatesService">
